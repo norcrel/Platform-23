@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager.cs">
+    <Files>
+      <File FileName="Assets\inputTest.cs" Line="13" Column="52" />
+      <File FileName="Assets\AIManager.cs" Line="7" Column="17" />
+      <File FileName="Assets\AI.cs" Line="59" Column="2" />
+      <File FileName="Assets\Player.cs" Line="73" Column="4" />
+      <File FileName="Assets\Actor.cs" Line="15" Column="28" />
+      <File FileName="Assets\ScoreLabel.cs" Line="55" Column="38" />
+      <File FileName="Assets\GameManager.cs" Line="151" Column="2" />
+      <File FileName="Assets\AISpawner.cs" Line="51" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
