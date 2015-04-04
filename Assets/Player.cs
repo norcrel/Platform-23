@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
-using System.Collections;
+using System;
 
 public class Player : MonoBehaviour {
 	public int PlayerNum;
 
-	public static float FIRE_COOLDOWN = 2.0f;
+	public static float FIRE_COOLDOWN = 3.0f;
 
 	private float lastFireTime = float.MinValue;
 
@@ -20,21 +20,67 @@ public class Player : MonoBehaviour {
 	{
 		get {
 			float value = Input.GetAxis ("Horizontal" + PlayerNum);
-			return value == 0 ? 0 : Mathf.Sign(value);
+			if (value != 0)
+			{
+				return Mathf.Sign (value);
+			}
+			float dValue = Input.GetAxis ("DHorizontal" + PlayerNum);
+			if (dValue != 0)
+			{
+				return Mathf.Sign (dValue);
+			}
+			return 0;
 		}
 	}
 	private float inputVertical
 	{
 		get {
 			float value = Input.GetAxis ("Vertical" + PlayerNum);
-			return value == 0 ? 0 : Mathf.Sign(value);
+			if (value != 0)
+			{
+				return Mathf.Sign (value);
+			}
+			float dValue = Input.GetAxis ("DVertical" + PlayerNum);
+			if (dValue != 0)
+			{
+				return Mathf.Sign (dValue);
+			}
+			return 0;
 		}
 	}
 	
 	private bool fire
 	{
 		get {
-			return Input.GetButtonDown ("Fire" + PlayerNum);
+			return Input.GetButtonDown ("RightButton" + PlayerNum);
+		}
+	}
+	
+	private bool attack
+	{
+		get {
+			return Input.GetButtonDown ("LeftButton" + PlayerNum);
+		}
+	}
+	
+	private bool change
+	{
+		get {
+			return Input.GetButtonDown ("TopButton" + PlayerNum);
+		}
+	}
+	
+	private bool run
+	{
+		get {
+			return Input.GetButton ("BottomButton" + PlayerNum);
+		}
+	}
+	
+	private bool start
+	{
+		get {
+			return Input.GetButton ("Start" + PlayerNum) || Input.GetButton ("Logo" + PlayerNum) || Input.GetButton ("Pad" + PlayerNum);
 		}
 	}
 
@@ -56,21 +102,34 @@ public class Player : MonoBehaviour {
 	void Update () {
 		if (m_actor.Killed) return;
 
+		float normalizedSpeed = m_actor.Speed * Time.deltaTime;
+		if (run)
+		{
+			if (CanFire)
+			{
+				normalizedSpeed *= 2f;
+			}
+			else
+			{
+				normalizedSpeed *= 1.5f;
+			}
+		}
+
 		transform.localPosition = new Vector3(
-			Mathf.Clamp(transform.localPosition.x + inputHorizontal * m_actor.Speed, -8.4f, 8.4f),
-			Mathf.Clamp(transform.localPosition.y + inputVertical * m_actor.Speed, -4.5f, 4.5f),
+			Mathf.Clamp(transform.localPosition.x + inputHorizontal * normalizedSpeed, -7.68f, 7.68f),
+			Mathf.Clamp(transform.localPosition.y + inputVertical * normalizedSpeed, -4.5f, 4.5f),
 			0
 			);
 
-		if (CanFire && fire)
+		if (CanFire && attack)
 		{
 			lastFireTime = Time.time;
 			KillClosestActor();
 		}
 
-		if (pickUp)
+		if (change)
 		{
-
+			m_actor.ChangeToRandomCostume();
 		}
 	}
 

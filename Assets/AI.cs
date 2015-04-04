@@ -27,14 +27,12 @@ public class AI : MonoBehaviour {
 		if (m_actor.Killed) return;
 
 		currentAction();
-
-		Debug.Log (Time.deltaTime);
 	}
 
 	public void SetTargetPosition(Vector3 target)
 	{
 		targetPosition = target;
-		targetPosition.x = Mathf.Clamp(targetPosition.x, -8.4f, 8.4f);
+		targetPosition.x = Mathf.Clamp(targetPosition.x, -7.68f, 7.68f);
 		targetPosition.y = Mathf.Clamp(targetPosition.y, -4.5f, 4.5f);
 		currentAction = Wander;
 	}
@@ -69,7 +67,7 @@ public class AI : MonoBehaviour {
 				// Move Diagonal
 				float deltaRand = UnityEngine.Random.Range (-4f, 4f);
 				targetPosition.Set(
-					Mathf.Clamp(transform.localPosition.x + deltaRand, -8.4f, 8.4f),
+					Mathf.Clamp(transform.localPosition.x + deltaRand, -7.68f, 7.68f),
 					Mathf.Clamp(transform.localPosition.y + deltaRand, -4.5f, 4.5f),
 					0
 					);
@@ -78,7 +76,7 @@ public class AI : MonoBehaviour {
 			{
 				// Move Horizontal
 				targetPosition.Set(
-					UnityEngine.Random.Range (-8.4f, 8.4f),
+					UnityEngine.Random.Range (-7.68f, 7.68f),
 					transform.localPosition.y,
 					0
 					);

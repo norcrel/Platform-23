@@ -2,3 +2,5 @@ Library/metadata
 Temp/*
 Build/*
 Library/
+*.csproj
+*.sln
