@@ -1,9 +1,12 @@
-﻿using UnityEditor;
+﻿#if UNITY_EDITOR
+using UnityEditor;
+#endif
 using UnityEngine;
 using System.Collections;
 
 public class InputCreator : MonoBehaviour {
 
+#if UNITY_EDITOR
 	// Use this for initialization
 	[ContextMenu("Do")]
 	void Do()
@@ -112,6 +115,6 @@ public class InputCreator : MonoBehaviour {
 		
 		serializedObject.ApplyModifiedProperties();
 	}
-
+#endif
 
 }

@@ -124,7 +124,12 @@ public class Player : MonoBehaviour {
 		if (CanFire && attack)
 		{
 			lastFireTime = Time.time;
-			KillClosestActor();
+			if (KillClosestActor())
+			{
+				SoundManager.Instance.PlaySound("killSFX");
+			}
+
+			SoundManager.Instance.PlaySound("attackSFX");
 		}
 
 		if (change)

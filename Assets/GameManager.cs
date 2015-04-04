@@ -120,12 +120,22 @@ public class GameManager : MonoBehaviour {
 
 	public void PlayerJoined(int index)
 	{
-		participatingPlayers[index] = true;
+		if (!participatingPlayers[index])
+		{
+			participatingPlayers[index] = true;
+
+			SoundManager.Instance.PlaySound("joinSFX");
+		}
 	}
 
 	public void PlayerLeft(int index)
 	{
-		participatingPlayers[index] = false;
+		if (participatingPlayers[index])
+		{
+			participatingPlayers[index] = false;
+
+			SoundManager.Instance.PlaySound("quitSFX");
+		}
 	}
 
 	public Player SpawnPlayer(int playerNum)
@@ -146,6 +156,8 @@ public class GameManager : MonoBehaviour {
 
 		WinLabel.text = "P"+p.PlayerNum+" Win!";
 		RestartLabel.text = "Restarting in 5...";
+
+		SoundManager.Instance.PlaySound("winSFX");
 
 		if (OnGameWon != null) OnGameWon();
 	}
