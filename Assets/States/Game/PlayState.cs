@@ -64,16 +64,16 @@ public class PlayState : GameState {
 		GameObject pillarSpawn;
 		pillarSpawn = (GameObject) GameObject.Instantiate(Resources.Load<GameObject>("Pillar"));
 		pillarSpawn.transform.position = new Vector3(-3.8f + UnityEngine.Random.value-.5f, 2.25f + UnityEngine.Random.value-.5f);
-		pillarSpawn.renderer.sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
+		pillarSpawn.GetComponent<Renderer>().sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
 		pillarSpawn = (GameObject) GameObject.Instantiate(Resources.Load<GameObject>("Pillar"));
 		pillarSpawn.transform.position = new Vector3(3.8f + UnityEngine.Random.value-.5f, 2.25f + UnityEngine.Random.value-.5f);
-		pillarSpawn.renderer.sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
+		pillarSpawn.GetComponent<Renderer>().sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
 		pillarSpawn = (GameObject) GameObject.Instantiate(Resources.Load<GameObject>("Pillar"));
 		pillarSpawn.transform.position = new Vector3(-3.8f + UnityEngine.Random.value-.5f, -2.25f + UnityEngine.Random.value-.5f);
-		pillarSpawn.renderer.sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
+		pillarSpawn.GetComponent<Renderer>().sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
 		pillarSpawn = (GameObject) GameObject.Instantiate(Resources.Load<GameObject>("Pillar"));
 		pillarSpawn.transform.position = new Vector3(3.8f + UnityEngine.Random.value-.5f, -2.25f + UnityEngine.Random.value-.5f);
-		pillarSpawn.renderer.sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
+		pillarSpawn.GetComponent<Renderer>().sortingOrder = (int)(-pillarSpawn.transform.position.y*100f)+20;
 
 		GameManager.Instance.WinLabel.gameObject.SetActive(false);
 

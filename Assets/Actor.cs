@@ -42,9 +42,9 @@ public class Actor : MonoBehaviour {
 			float dt = Time.time - killedTime;
 			if (dt > 1.0)
 			{
-				Color c = renderer.material.color;
+				Color c = GetComponent<Renderer>().material.color;
 				c.a = 1 - dt / DESTROY_TIME;
-				renderer.material.color = c;
+				GetComponent<Renderer>().material.color = c;
 			}
 
 			if (dt > DESTROY_TIME)
@@ -75,7 +75,7 @@ public class Actor : MonoBehaviour {
 				FaceDown();
 			}
 
-			renderer.sortingOrder = (int) (-transform.position.y * 100f);
+			GetComponent<Renderer>().sortingOrder = (int) (-transform.position.y * 100f);
 
 			currentFrame = (currentFrame+Time.deltaTime*8f*(Speed/1.5f))%4;
 			while (currentFrame >= 4) currentFrame -= 4f;
@@ -155,6 +155,6 @@ public class Actor : MonoBehaviour {
 
 	private void loadFrame(int frameNum)
 	{
-		((SpriteRenderer) renderer).sprite = Resources.LoadAll<Sprite>("characters/"+CostumeName)[frameNum];
+		((SpriteRenderer) GetComponent<Renderer>()).sprite = Resources.LoadAll<Sprite>("characters/"+CostumeName)[frameNum];
 	}
 }
