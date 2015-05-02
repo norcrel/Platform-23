@@ -115,6 +115,8 @@ public class GameManager : MonoBehaviour {
 
 	public void UnregisterActor(Actor a)
 	{
+		
+		TelemetryManager.Instance.LogEvent("actor_killed");
 		allActors.Remove(a);
 		Player p = a.GetComponent<Player>();
 		if (p != null)
@@ -129,10 +131,12 @@ public class GameManager : MonoBehaviour {
 					lastPlayer = allPlayers[i];
 				}
 			}
+			
+			TelemetryManager.Instance.LogEvent("player_killed");
 
 			if (numPlayersAlive == 1)
 			{
-				//Win(lastPlayer);
+				Win(lastPlayer);
 			}
 		}
 	}
@@ -171,6 +175,8 @@ public class GameManager : MonoBehaviour {
 
 	public void Win(Player p)
 	{
+		TelemetryManager.Instance.LogEvent("player_win");
+
 		WinLabel.gameObject.SetActive(true);
 
 		WinLabel.text = "P"+(p.PlayerNum+1)+" Win!";
@@ -193,6 +199,8 @@ public class GameManager : MonoBehaviour {
 		AISpawner ais = currentBus.GetComponent<AISpawner>();
 		ais.NumToSpawn = UnityEngine.Random.Range(5, 25);
 		ais.delay = UnityEngine.Random.Range (2,5);
+		
+		TelemetryManager.Instance.LogEvent("bus_spawned");
 	}
 
 	public Sweeper SpawnSweeper()
@@ -201,6 +209,8 @@ public class GameManager : MonoBehaviour {
 		sweeperObj.transform.localPosition = new Vector3(UnityEngine.Random.Range (-8f, 8f), UnityEngine.Random.Range (-3f, 3f));
 		Sweeper s = sweeperObj.GetComponent<Sweeper>();
 		s.SweepTime = 20f;
+		
+		TelemetryManager.Instance.LogEvent("sweeper_spawned");
 
 		return s;
 	}
@@ -221,6 +231,9 @@ public class GameManager : MonoBehaviour {
 				return null;
 			}
 		}
+		
+		TelemetryManager.Instance.LogEvent("treasure_spawned");
+
 		currentTreasure = treasureObj.GetComponent<Treasure>();
 
 		return currentTreasure;

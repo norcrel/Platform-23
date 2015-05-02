@@ -16,6 +16,8 @@ public class PlayState : GameState {
 
 	public override void Enter ()
 	{
+		TelemetryManager.Instance.StartNewSession();
+
 		gameTime = 0f;
 		
 		nextBusSpawnDelay = nextBusSpawnDelay * (UnityEngine.Random.value + .75f);
