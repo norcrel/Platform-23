@@ -16,9 +16,9 @@ public class Sweeper : MonoBehaviour {
 	void Awake()
 	{
 		SweepObject.SetActive(false);
-		if (renderer != null)
+		if (GetComponent<Renderer>() != null)
 		{
-			renderer.enabled = false;
+			GetComponent<Renderer>().enabled = false;
 		}
 	}
 	
