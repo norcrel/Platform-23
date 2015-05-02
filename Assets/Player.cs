@@ -7,6 +7,7 @@ public class Player : MonoBehaviour {
 	public static float FIRE_COOLDOWN = 3.0f;
 
 	private float lastFireTime = float.MinValue;
+	private float m_revealTime = 0;
 
 	private Actor _actor;
 	private Actor m_actor {
@@ -111,7 +112,7 @@ public class Player : MonoBehaviour {
 			}
 			else
 			{
-				normalizedSpeed *= 1.5f;
+				normalizedSpeed *= 1.2f;
 			}
 		}
 
@@ -136,6 +137,20 @@ public class Player : MonoBehaviour {
 		{
 			m_actor.ChangeToRandomCostume();
 		}
+
+		if (m_revealTime > 0)
+		{
+			m_revealTime -= Time.deltaTime;
+			SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+			if (m_revealTime < 0)
+			{
+				sr.color = Color.white;
+			}
+			else
+			{	
+				sr.color = new Color((float) (Math.Sin(Time.realtimeSinceStartup*6f)/2f + .5f), 0, 0);
+			}
+		}
 	}
 
 	private bool KillClosestActor()
@@ -158,5 +173,10 @@ public class Player : MonoBehaviour {
 		}
 
 		return killedActor;
+	}
+
+	public void TempReveal()
+	{
+		m_revealTime = 2.5f;
 	}
 }
