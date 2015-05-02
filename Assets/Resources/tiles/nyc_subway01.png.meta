@@ -1,0 +1,2588 @@
+fileFormatVersion: 2
+guid: ba8f68a154388a6488d6af6337316c14
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nyc_subway01_5
+    21300002: nyc_subway01_7
+    21300004: nyc_subway01_9
+    21300006: nyc_subway01_10
+    21300008: nyc_subway01_11
+    21300010: nyc_subway01_12
+    21300012: nyc_subway01_14
+    21300014: nyc_subway01_15
+    21300016: nyc_subway01_32
+    21300018: nyc_subway01_33
+    21300020: nyc_subway01_34
+    21300022: nyc_subway01_35
+    21300024: nyc_subway01_36
+    21300026: nyc_subway01_37
+    21300028: nyc_subway01_38
+    21300030: nyc_subway01_39
+    21300032: nyc_subway01_43
+    21300034: nyc_subway01_44
+    21300036: nyc_subway01_45
+    21300038: nyc_subway01_47
+    21300040: nyc_subway01_51
+    21300042: nyc_subway01_52
+    21300044: nyc_subway01_53
+    21300046: nyc_subway01_55
+    21300048: nyc_subway01_56
+    21300050: nyc_subway01_57
+    21300052: nyc_subway01_58
+    21300054: nyc_subway01_64
+    21300056: nyc_subway01_65
+    21300058: nyc_subway01_66
+    21300060: nyc_subway01_67
+    21300062: nyc_subway01_68
+    21300064: nyc_subway01_69
+    21300066: nyc_subway01_72
+    21300068: nyc_subway01_73
+    21300070: nyc_subway01_74
+    21300072: nyc_subway01_75
+    21300074: nyc_subway01_76
+    21300076: nyc_subway01_77
+    21300078: nyc_subway01_78
+    21300080: nyc_subway01_79
+    21300082: nyc_subway01_96
+    21300084: nyc_subway01_97
+    21300086: nyc_subway01_98
+    21300088: nyc_subway01_99
+    21300090: nyc_subway01_100
+    21300092: nyc_subway01_101
+    21300094: nyc_subway01_102
+    21300096: nyc_subway01_103
+    21300098: nyc_subway01_105
+    21300100: nyc_subway01_106
+    21300102: nyc_subway01_107
+    21300104: nyc_subway01_108
+    21300106: nyc_subway01_109
+    21300108: nyc_subway01_110
+    21300110: nyc_subway01_111
+    21300112: nyc_subway01_113
+    21300114: nyc_subway01_114
+    21300116: nyc_subway01_115
+    21300118: nyc_subway01_116
+    21300120: nyc_subway01_117
+    21300122: nyc_subway01_118
+    21300124: nyc_subway01_119
+    21300126: nyc_subway01_120
+    21300128: nyc_subway01_121
+    21300130: nyc_subway01_122
+    21300132: nyc_subway01_123
+    21300134: nyc_subway01_124
+    21300136: nyc_subway01_125
+    21300138: nyc_subway01_126
+    21300140: nyc_subway01_127
+    21300142: nyc_subway01_128
+    21300144: nyc_subway01_129
+    21300146: nyc_subway01_130
+    21300148: nyc_subway01_131
+    21300150: nyc_subway01_132
+    21300152: nyc_subway01_133
+    21300154: nyc_subway01_134
+    21300156: nyc_subway01_135
+    21300158: nyc_subway01_136
+    21300160: nyc_subway01_137
+    21300162: nyc_subway01_138
+    21300164: nyc_subway01_139
+    21300166: nyc_subway01_140
+    21300168: nyc_subway01_141
+    21300170: nyc_subway01_142
+    21300172: nyc_subway01_143
+    21300174: nyc_subway01_144
+    21300176: nyc_subway01_145
+    21300178: nyc_subway01_146
+    21300180: nyc_subway01_147
+    21300182: nyc_subway01_148
+    21300184: nyc_subway01_149
+    21300186: nyc_subway01_150
+    21300188: nyc_subway01_151
+    21300190: nyc_subway01_152
+    21300192: nyc_subway01_153
+    21300194: nyc_subway01_154
+    21300196: nyc_subway01_155
+    21300198: nyc_subway01_156
+    21300200: nyc_subway01_157
+    21300202: nyc_subway01_158
+    21300204: nyc_subway01_160
+    21300206: nyc_subway01_161
+    21300208: nyc_subway01_162
+    21300210: nyc_subway01_163
+    21300212: nyc_subway01_164
+    21300214: nyc_subway01_165
+    21300216: nyc_subway01_166
+    21300218: nyc_subway01_169
+    21300220: nyc_subway01_170
+    21300222: nyc_subway01_171
+    21300224: nyc_subway01_172
+    21300226: nyc_subway01_173
+    21300228: nyc_subway01_174
+    21300230: nyc_subway01_177
+    21300232: nyc_subway01_178
+    21300234: nyc_subway01_179
+    21300236: nyc_subway01_180
+    21300238: nyc_subway01_181
+    21300240: nyc_subway01_182
+    21300242: nyc_subway01_185
+    21300244: nyc_subway01_186
+    21300246: nyc_subway01_187
+    21300248: nyc_subway01_188
+    21300250: nyc_subway01_189
+    21300252: nyc_subway01_190
+    21300254: nyc_subway01_192
+    21300256: nyc_subway01_193
+    21300258: nyc_subway01_194
+    21300260: nyc_subway01_195
+    21300262: nyc_subway01_196
+    21300264: nyc_subway01_197
+    21300266: nyc_subway01_198
+    21300268: nyc_subway01_199
+    21300270: nyc_subway01_200
+    21300272: nyc_subway01_201
+    21300274: nyc_subway01_202
+    21300276: nyc_subway01_203
+    21300278: nyc_subway01_204
+    21300280: nyc_subway01_205
+    21300282: nyc_subway01_206
+    21300284: nyc_subway01_207
+    21300286: nyc_subway01_208
+    21300288: nyc_subway01_209
+    21300290: nyc_subway01_210
+    21300292: nyc_subway01_211
+    21300294: nyc_subway01_212
+    21300296: nyc_subway01_213
+    21300298: nyc_subway01_214
+    21300300: nyc_subway01_215
+    21300302: nyc_subway01_216
+    21300304: nyc_subway01_217
+    21300306: nyc_subway01_218
+    21300308: nyc_subway01_219
+    21300310: nyc_subway01_220
+    21300312: nyc_subway01_221
+    21300314: nyc_subway01_222
+    21300316: nyc_subway01_223
+    21300318: nyc_subway01_224
+    21300320: nyc_subway01_225
+    21300322: nyc_subway01_226
+    21300324: nyc_subway01_227
+    21300326: nyc_subway01_228
+    21300328: nyc_subway01_229
+    21300330: nyc_subway01_230
+    21300332: nyc_subway01_231
+    21300334: nyc_subway01_232
+    21300336: nyc_subway01_233
+    21300338: nyc_subway01_234
+    21300340: nyc_subway01_235
+    21300342: nyc_subway01_236
+    21300344: nyc_subway01_237
+    21300346: nyc_subway01_238
+    21300348: nyc_subway01_239
+    21300350: nyc_subway01_240
+    21300352: nyc_subway01_241
+    21300354: nyc_subway01_242
+    21300356: nyc_subway01_243
+    21300358: nyc_subway01_244
+    21300360: nyc_subway01_245
+    21300362: nyc_subway01_246
+    21300364: nyc_subway01_247
+    21300366: nyc_subway01_248
+    21300368: nyc_subway01_249
+    21300370: nyc_subway01_250
+    21300372: nyc_subway01_251
+    21300374: nyc_subway01_252
+    21300376: nyc_subway01_253
+    21300378: nyc_subway01_254
+    21300380: nyc_subway01_255
+    21300382: nyc_subway01_256
+    21300384: nyc_subway01_257
+    21300386: nyc_subway01_258
+    21300388: nyc_subway01_259
+    21300390: nyc_subway01_260
+    21300392: nyc_subway01_261
+    21300394: nyc_subway01_262
+    21300396: nyc_subway01_263
+    21300398: nyc_subway01_264
+    21300400: nyc_subway01_265
+    21300402: nyc_subway01_266
+    21300404: nyc_subway01_267
+    21300406: nyc_subway01_268
+    21300408: nyc_subway01_269
+    21300410: nyc_subway01_270
+    21300412: nyc_subway01_271
+    21300414: nyc_subway01_272
+    21300416: nyc_subway01_273
+    21300418: nyc_subway01_274
+    21300420: nyc_subway01_275
+    21300422: nyc_subway01_276
+    21300424: nyc_subway01_277
+    21300426: nyc_subway01_278
+    21300428: nyc_subway01_279
+    21300430: nyc_subway01_280
+    21300432: nyc_subway01_281
+    21300434: nyc_subway01_282
+    21300436: nyc_subway01_283
+    21300438: nyc_subway01_284
+    21300440: nyc_subway01_285
+    21300442: nyc_subway01_286
+    21300444: nyc_subway01_287
+    21300446: nyc_subway01_288
+    21300448: nyc_subway01_289
+    21300450: nyc_subway01_290
+    21300452: nyc_subway01_291
+    21300454: nyc_subway01_292
+    21300456: nyc_subway01_293
+    21300458: nyc_subway01_294
+    21300460: nyc_subway01_295
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nyc_subway01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1258
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1226
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 32
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1130
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1129
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1034
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1034
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1002
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 970
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 970
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 970
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 874
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 842
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 778
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 746
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 714
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 650
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 618
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 394
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_235
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_237
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_252
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_255
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_261
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_262
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_263
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_265
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_266
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_267
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_269
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_270
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_271
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_273
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_277
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_279
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_281
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_282
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_283
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_284
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_285
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_286
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_287
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_294
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyc_subway01_295
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

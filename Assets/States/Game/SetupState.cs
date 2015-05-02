@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 
 public class SetupState : GameState {
+	private Sweeper m_tutorialSweeper;
+	private float m_sweeperSpawnTimer = 0f;
 	public override void Enter ()
 	{
 		GameManager.Instance.SetupUI.SetActive(true);
@@ -12,6 +14,18 @@ public class SetupState : GameState {
 	
 	public override void Update()
 	{
+		if (m_tutorialSweeper == null)
+		{
+			m_sweeperSpawnTimer -= Time.deltaTime;
+			if (m_sweeperSpawnTimer <= 0)
+			{
+				m_tutorialSweeper = GameManager.Instance.SpawnSweeper();
+				m_tutorialSweeper.transform.localPosition = new Vector3(0f, 1.75f, 0f);
+				m_tutorialSweeper.SweepTime = float.MaxValue;
+				m_sweeperSpawnTimer = 3f;
+			}
+		}
+
 		bool wantsStart = false;
 		for (int player=0; player < 4; player++)
 		{
@@ -75,6 +89,11 @@ public class SetupState : GameState {
 			c.a = 0;
 		}
 		GameManager.Instance.StartInstructions.renderer.material.color = c;
+
+		if (Input.GetKeyDown(KeyCode.T))
+		{
+			GameManager.Instance.PlayWithTreasure = !GameManager.Instance.PlayWithTreasure;
+		}
 	}
 	
 	public override void Exit()

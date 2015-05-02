@@ -2,17 +2,17 @@
 using System.Collections;
 
 public class AISpawner : MonoBehaviour {
-	public float delay = 1f;
+	public float delay = 3f;
 	private float initialDelay;
 
 	public int NumToSpawn = 10;
 
 	public static float DELAY_BETWEEN_SPAWNS = .2f;
 
-	private MeshRenderer _meshRenderer;
-	private MeshRenderer m_meshRenderer {
+	private SpriteRenderer _meshRenderer;
+	private SpriteRenderer m_meshRenderer {
 		get {
-			if (_meshRenderer == null) _meshRenderer = GetComponentInChildren<MeshRenderer>();
+			if (_meshRenderer == null) _meshRenderer = GetComponentInChildren<SpriteRenderer>();
 			return _meshRenderer;
 		}
 	}
@@ -22,7 +22,7 @@ public class AISpawner : MonoBehaviour {
 	void Start () {
 		transform.localPosition = new Vector3(transform.localPosition.x, transform.localPosition.y, 20);
 		initialDelay = delay;
-		m_meshRenderer.material.color = Color.black;
+		m_meshRenderer.color = Color.black;
 	}
 	
 	// Update is called once per frame
@@ -32,7 +32,15 @@ public class AISpawner : MonoBehaviour {
 			delay -= Time.deltaTime;
 
 			float normalizedArrivalTime = 1 - delay / initialDelay;
-			m_meshRenderer.material.color = new Color(normalizedArrivalTime, normalizedArrivalTime, normalizedArrivalTime);
+			if (normalizedArrivalTime < .8f)
+			{
+				normalizedArrivalTime = 0;
+			}
+			else
+			{
+				normalizedArrivalTime = (normalizedArrivalTime-.8f) / .2f;
+			}
+			m_meshRenderer.color = new Color(normalizedArrivalTime, normalizedArrivalTime, normalizedArrivalTime);
 			return;
 		}
 
