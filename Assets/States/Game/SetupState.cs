@@ -52,8 +52,8 @@ public class SetupState : GameState {
 			wantsStart = wantsStart || Input.GetButton ("Start" + player) || Input.GetButton ("Logo" + player) || Input.GetButton ("Pad" + player);
 		}
 		
-		Color c = GameManager.Instance.StartInstructions.renderer.material.color;
-		if (GameManager.Instance.GetNumPlayers() >= 1)
+		Color c = GameManager.Instance.StartInstructions.GetComponent<Renderer>().material.color;
+		if (GameManager.Instance.GetNumPlayers() >= 2)
 		{
 			if (fadeDirection == 1 && c.a > 1)
 			{
@@ -74,7 +74,7 @@ public class SetupState : GameState {
 		{
 			c.a = 0;
 		}
-		GameManager.Instance.StartInstructions.renderer.material.color = c;
+		GameManager.Instance.StartInstructions.GetComponent<Renderer>().material.color = c;
 	}
 	
 	public override void Exit()
